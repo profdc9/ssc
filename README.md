@@ -1,5 +1,10 @@
 # Simple Serial Card
 
+## Note
+
+This card has been laid out to be a 2 layer version by Daniel Marks.  It also uses a 1.8432 MHz crystal and 74HC00
+pierce oscllator rather than a self-contained oscillator at that frequency which is harder to find.
+
 ## Overview
 
 The Simple Serial Card is a low-cost Super Serial Card work-a-like. I designed
